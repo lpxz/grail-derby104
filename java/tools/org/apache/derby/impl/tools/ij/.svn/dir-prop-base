@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 179
+ijConstants.java
+ijTokenManager.java
+TokenMgrError.java
+ij.java
+SimpleCharStream.java
+Token.java
+mtGrammarTokenManager.java
+mtGrammarConstants.java
+mtGrammar.java
+CharStream.java
+
+END

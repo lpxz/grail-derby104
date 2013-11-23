@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/buffer
+END
+LogBufferFullException.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/buffer/LogBufferFullException.java
+END
+LogBufferElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/buffer/LogBufferElement.java
+END
+ReplicationLogBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/buffer/ReplicationLogBuffer.java
+END

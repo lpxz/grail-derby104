@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/644211/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache
+END
+ClockFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/ClockFactory.java
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/643327/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/CacheEntry.java
+END
+CachedItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/CachedItem.java
+END
+ConcurrentCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/643327/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/ConcurrentCache.java
+END
+BackgroundCleaner.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/643327/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/BackgroundCleaner.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/Clock.java
+END
+ClockPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/644211/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/ClockPolicy.java
+END
+ConcurrentCacheFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/ConcurrentCacheFactory.java
+END
+CacheStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/CacheStat.java
+END
+ReplacementPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/643327/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/cache/ReplacementPolicy.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks
+END
+Control.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/Control.java
+END
+LockTableVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/LockTableVTI.java
+END
+ActiveLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/ActiveLock.java
+END
+Timeout.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/Timeout.java
+END
+D_ActiveLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/D_ActiveLock.java
+END
+Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/Lock.java
+END
+LockControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/LockControl.java
+END
+D_Lock.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/D_Lock.java
+END
+D_LockControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/D_LockControl.java
+END
+AbstractPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/AbstractPool.java
+END
+LockTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/LockTable.java
+END
+LockSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/LockSpace.java
+END
+LockSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/LockSet.java
+END
+TableNameInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/TableNameInfo.java
+END
+Deadlock.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/Deadlock.java
+END
+ConcurrentLockSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/ConcurrentLockSet.java
+END
+SinglePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/SinglePool.java
+END
+ConcurrentPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/ConcurrentPool.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services/locks/Constants.java
+END

@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1338905/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary
+END
+CatalogRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/CatalogRowFactory.java
+END
+FileInfoDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/FileInfoDescriptor.java
+END
+StatementColumnPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatementColumnPermission.java
+END
+RoutinePermsDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/RoutinePermsDescriptor.java
+END
+ColumnDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ColumnDescriptor.java
+END
+SubConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/SubConstraintDescriptor.java
+END
+TablePermsDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/TablePermsDescriptor.java
+END
+StatementSchemaPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatementSchemaPermission.java
+END
+SchemaDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/SchemaDescriptor.java
+END
+TriggerDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1056168/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/TriggerDescriptor.java
+END
+SystemColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/SystemColumn.java
+END
+SubKeyConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/SubKeyConstraintDescriptor.java
+END
+PermissionsDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/PermissionsDescriptor.java
+END
+UniqueSQLObjectDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/UniqueSQLObjectDescriptor.java
+END
+StatementPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatementPermission.java
+END
+ConsInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ConsInfo.java
+END
+ConstraintDescriptorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ConstraintDescriptorList.java
+END
+DataDescriptorGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/DataDescriptorGenerator.java
+END
+DefaultDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/DefaultDescriptor.java
+END
+StatementRoutinePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatementRoutinePermission.java
+END
+ConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ConstraintDescriptor.java
+END
+StatementTablePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatementTablePermission.java
+END
+TupleDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/TupleDescriptor.java
+END
+StatisticsDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatisticsDescriptor.java
+END
+IndexLister.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/IndexLister.java
+END
+SubCheckConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/SubCheckConstraintDescriptor.java
+END
+KeyConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/KeyConstraintDescriptor.java
+END
+StatementRolePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/StatementRolePermission.java
+END
+DataDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1056168/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/DataDictionary.java
+END
+RoleDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/RoleDescriptor.java
+END
+SPSDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1056168/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/SPSDescriptor.java
+END
+IndexRowGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/647502/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/IndexRowGenerator.java
+END
+ForeignKeyConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ForeignKeyConstraintDescriptor.java
+END
+GenericDescriptorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/GenericDescriptorList.java
+END
+DDUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/DDUtils.java
+END
+ViewDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ViewDescriptor.java
+END
+ConglomerateDescriptorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ConglomerateDescriptorList.java
+END
+DependencyDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/DependencyDescriptor.java
+END
+ConglomerateDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1338905/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ConglomerateDescriptor.java
+END
+UniqueTupleDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/UniqueTupleDescriptor.java
+END
+ReferencedKeyConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ReferencedKeyConstraintDescriptor.java
+END
+CheckConstraintDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/CheckConstraintDescriptor.java
+END
+ColPermsDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ColPermsDescriptor.java
+END
+TableDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/TableDescriptor.java
+END
+AliasDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/AliasDescriptor.java
+END
+ColumnDescriptorList.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/dictionary/ColumnDescriptorList.java
+END

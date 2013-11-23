@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access
+END
+DynamicCompiledOpenConglomInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/DynamicCompiledOpenConglomInfo.java
+END
+GroupFetchScanController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/GroupFetchScanController.java
+END
+Qualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/Qualifier.java
+END
+KeyHasher.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/KeyHasher.java
+END
+SortCostController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/SortCostController.java
+END
+StoreCostResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/StoreCostResult.java
+END
+FileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/FileResource.java
+END
+BackingStoreHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/BackingStoreHashtable.java
+END
+TransactionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/TransactionController.java
+END
+AccessFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/AccessFactory.java
+END
+SortController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/SortController.java
+END
+AccessFactoryGlobals.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/AccessFactoryGlobals.java
+END
+SortObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/SortObserver.java
+END
+TransactionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/TransactionInfo.java
+END
+SortInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/SortInfo.java
+END
+BinaryOrderable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/BinaryOrderable.java
+END
+RowUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/RowUtil.java
+END
+DatabaseInstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/DatabaseInstant.java
+END
+DiskHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/DiskHashtable.java
+END
+SpaceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/SpaceInfo.java
+END
+ConglomPropertyQueryable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/ConglomPropertyQueryable.java
+END
+GlobalXact.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/GlobalXact.java
+END
+StaticCompiledOpenConglomInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/StaticCompiledOpenConglomInfo.java
+END
+XATransactionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/XATransactionController.java
+END
+ConglomerateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/ConglomerateController.java
+END
+RowLocationRetRowSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/RowLocationRetRowSource.java
+END
+GenericScanController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/GenericScanController.java
+END
+ColumnOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/ColumnOrdering.java
+END
+ScanController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/ScanController.java
+END
+RowSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/RowSource.java
+END
+StoreCostController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/StoreCostController.java
+END
+ScanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/ScanInfo.java
+END
+RowCountable.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/access/RowCountable.java
+END

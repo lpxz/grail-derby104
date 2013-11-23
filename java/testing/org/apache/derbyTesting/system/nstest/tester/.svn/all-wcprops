@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/system/nstest/tester
+END
+Tester1.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/system/nstest/tester/Tester1.java
+END
+Tester2.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/system/nstest/tester/Tester2.java
+END
+Tester3.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/system/nstest/tester/Tester3.java
+END
+BackupRestoreReEncryptTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/system/nstest/tester/BackupRestoreReEncryptTester.java
+END
+TesterObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/system/nstest/tester/TesterObject.java
+END

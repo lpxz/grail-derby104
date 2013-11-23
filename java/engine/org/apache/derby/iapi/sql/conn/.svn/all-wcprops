@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/conn
+END
+StatementContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/conn/StatementContext.java
+END
+LanguageConnectionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/conn/LanguageConnectionFactory.java
+END
+Authorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/conn/Authorizer.java
+END
+ConnectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/conn/ConnectionUtil.java
+END
+LanguageConnectionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/687155/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/conn/LanguageConnectionContext.java
+END

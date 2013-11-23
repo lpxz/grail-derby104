@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/corruptio
+END
+CorruptFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/corruptio/CorruptFile.java
+END
+CorruptRandomAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/corruptio/CorruptRandomAccessFile.java
+END
+CorruptibleIo.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/corruptio/CorruptibleIo.java
+END
+CorruptBaseStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/corruptio/CorruptBaseStorageFactory.java
+END
+CorruptDiskStorageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/corruptio/CorruptDiskStorageFactory.java
+END

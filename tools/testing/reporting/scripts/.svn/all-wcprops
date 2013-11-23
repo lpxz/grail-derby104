@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/testing/reporting/scripts
+END
+system
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/system
+END
+buildDerby
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/buildDerby
+END
+cpu_mem
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cpu_mem
+END
+textMail
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/textMail
+END
+initDERBYDIR
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/initDERBYDIR
+END
+updateBuildTestDerby
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/updateBuildTestDerby
+END
+testSummariesDerby
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/testSummariesDerby
+END
+README.1
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/testing/reporting/scripts/README.1
+END
+README.2
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/testing/reporting/scripts/README.2
+END
+mkJIRArefs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkJIRArefs
+END
+createBaselineFilesOnePlatform
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/createBaselineFilesOnePlatform
+END
+testDerby
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/testDerby
+END
+cronCurrentTestInfoDerby
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cronCurrentTestInfoDerby
+END
+startDerbyTests
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/startDerbyTests
+END
+svnLogRevs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/svnLogRevs
+END
+cronUpdateBuildTestDerby
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cronUpdateBuildTestDerby
+END
+platformsFailCount
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/platformsFailCount
+END
+mkDerbyTestIndex_all
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkDerbyTestIndex_all
+END
+mkJIRArefs.current
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkJIRArefs.current
+END
+mkGNUplot
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkGNUplot
+END
+linux-system
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/linux-system
+END
+cygwin-system
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cygwin-system
+END
+cygwin-cpu_mem
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cygwin-cpu_mem
+END
+mkDerbyTestIndex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkDerbyTestIndex
+END
+mkUpdateInfo
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkUpdateInfo
+END
+mkPercentForTimeListVsBaseline
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkPercentForTimeListVsBaseline
+END
+env
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/env
+END
+platformsDurPrcnt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/platformsDurPrcnt
+END
+createBaselineFiles
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/createBaselineFiles
+END
+doplot_all
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/doplot_all
+END
+testPlatformsDerby
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/testPlatformsDerby
+END
+mkAllPlotDataAndPlots
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkAllPlotDataAndPlots
+END
+solaris-system
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/solaris-system
+END
+testHistoriesDerby
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/testHistoriesDerby
+END
+mkGNUplot.recent
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkGNUplot.recent
+END
+cronMkDerbyTestIndex_all
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cronMkDerbyTestIndex_all
+END
+cronUpdateAllTestInfoDerby
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cronUpdateAllTestInfoDerby
+END
+solaris-cpu_mem
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/solaris-cpu_mem
+END
+svnLogRevs.new
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/svnLogRevs.new
+END
+scp_dummy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/scp_dummy
+END
+toSeconds
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/toSeconds
+END
+doplot
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/doplot
+END
+getBaselineTime
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/getBaselineTime
+END
+vsTimeBase
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/vsTimeBase
+END
+mkAllDerbyTestInfo
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkAllDerbyTestInfo
+END
+mkSandBoxSummary
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkSandBoxSummary
+END
+calcJarFootprint
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/calcJarFootprint
+END
+mkGNUplot_last20
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkGNUplot_last20
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/testing/reporting/scripts/TODO
+END
+updateDerby
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/updateDerby
+END
+svnDiffToRev
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/svnDiffToRev
+END
+mkAllDerbyTestInfo.public
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/mkAllDerbyTestInfo.public
+END
+cronMkAllPlotDataAndPlots
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/cronMkAllPlotDataAndPlots
+END
+runAllTests
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/runAllTests
+END
+linux-cpu_mem
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/linux-cpu_mem
+END
+fromSeconds
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/fromSeconds
+END
+calcPercent
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/scripts/calcPercent
+END

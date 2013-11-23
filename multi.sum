@@ -1,0 +1,9 @@
+******* Start Suite: multi 2013-10-22 22:47:54 *******
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Error: Could not find or load main class org.apache.derby.tools.sysinfo
+**** Start SubSuite: multi:multi jdk1.7.0_13 2013-10-22 22:47:54 ****
+Framework: No special framework.
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Error: Could not find or load main class org.apache.derbyTesting.functionTests.harness.RunTest
+**** End SubSuite: multi:multi jdk1.7.0_13 2013-10-22 22:47:54 ****
+******* End Suite: multi 2013-10-22 22:47:54 *******

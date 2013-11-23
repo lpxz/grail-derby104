@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1058340/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory
+END
+ConnectionHandling.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/ConnectionHandling.java
+END
+TriggerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1058340/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/TriggerTests.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1044367/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/_Suite.java
+END
+BlobMemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/673454/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/BlobMemTest.java
+END
+ClobMemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/685028/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/ClobMemTest.java
+END
+ConnectionHandlingJunit.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/ConnectionHandlingJunit.java
+END
+MultiByteClobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/707105/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/MultiByteClobTest.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/memory/build.xml
+END

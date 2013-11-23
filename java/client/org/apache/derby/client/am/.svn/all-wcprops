@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/984080/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am
+END
+FailedProperties40.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/FailedProperties40.java
+END
+SetAccessibleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SetAccessibleAction.java
+END
+CloseFilterInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CloseFilterInputStream.java
+END
+ProductLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ProductLevel.java
+END
+SQLExceptionFactory40.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SQLExceptionFactory40.java
+END
+Blob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/751639/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Blob.java
+END
+GetResourceBundleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/GetResourceBundleAction.java
+END
+Clob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/751639/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Clob.java
+END
+MaterialStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/MaterialStatement.java
+END
+LogicalCallableStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalCallableStatement40.java
+END
+SqlWarning.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SqlWarning.java
+END
+LogicalPreparedStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalPreparedStatement40.java
+END
+CallableStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CallableStatement40.java
+END
+ResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/705502/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ResultSet.java
+END
+PreparedStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/PreparedStatement40.java
+END
+ConnectionCallbackInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ConnectionCallbackInterface.java
+END
+Decimal.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Decimal.java
+END
+BlobLocatorOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/BlobLocatorOutputStream.java
+END
+ClobLocatorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/647682/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClobLocatorInputStream.java
+END
+ColumnMetaData40.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ColumnMetaData40.java
+END
+Sqlca.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Sqlca.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Section.java
+END
+CrossConverters.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CrossConverters.java
+END
+Types.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Types.java
+END
+SQLExceptionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SQLExceptionFactory.java
+END
+MaterialPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/MaterialPreparedStatement.java
+END
+Diagnosable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Diagnosable.java
+END
+FloatingPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/FloatingPoint.java
+END
+LogWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogWriter.java
+END
+SqlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SqlException.java
+END
+GetResourceInputStreamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/GetResourceInputStreamAction.java
+END
+ParameterMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ParameterMetaData.java
+END
+LogicalPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalPreparedStatement.java
+END
+CallableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CallableStatement.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Version.java
+END
+XaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/XaException.java
+END
+UpdateSensitiveClobLocatorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/UpdateSensitiveClobLocatorInputStream.java
+END
+ColumnMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ColumnMetaData.java
+END
+LogicalConnection40.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalConnection40.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/682401/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Connection.java
+END
+GetSystemPropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/GetSystemPropertiesAction.java
+END
+ClientMessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClientMessageId.java
+END
+BatchUpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/BatchUpdateException.java
+END
+CachingLogicalConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CachingLogicalConnection.java
+END
+Statement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Statement40.java
+END
+GetFileInputStreamAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/GetFileInputStreamAction.java
+END
+ClobWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClobWriter.java
+END
+Lob.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/796712/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Lob.java
+END
+Cursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/682401/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Cursor.java
+END
+SignedBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SignedBinary.java
+END
+CallableLocatorProcedures.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/681697/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CallableLocatorProcedures.java
+END
+ExceptionFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ExceptionFormatter.java
+END
+UpdateSensitiveClobLocatorReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/UpdateSensitiveClobLocatorReader.java
+END
+PreparedStatementCallbackInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/PreparedStatementCallbackInterface.java
+END
+ParameterMetaData40.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ParameterMetaData40.java
+END
+EncryptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/EncryptionManager.java
+END
+ClobLocatorReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/647682/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClobLocatorReader.java
+END
+ResultSetCallbackInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ResultSetCallbackInterface.java
+END
+UpdateSensitiveLOBLocatorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/643091/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/UpdateSensitiveLOBLocatorInputStream.java
+END
+LOBStateTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/705502/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LOBStateTracker.java
+END
+LogicalConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalConnection.java
+END
+LogicalStatementEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalStatementEntity.java
+END
+DateTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/DateTime.java
+END
+BlobLocatorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/647682/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/BlobLocatorInputStream.java
+END
+Agent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Agent.java
+END
+SectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SectionManager.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Utils.java
+END
+ClobLocatorWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClobLocatorWriter.java
+END
+StatementCallbackInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/StatementCallbackInterface.java
+END
+ErrorKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ErrorKey.java
+END
+Statement.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/984080/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Statement.java
+END
+AsciiStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/AsciiStream.java
+END
+DatabaseMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/DatabaseMetaData.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Configuration.java
+END
+DisconnectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/DisconnectException.java
+END
+Savepoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/Savepoint.java
+END
+CachingLogicalConnection40.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/CachingLogicalConnection40.java
+END
+BlobOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/BlobOutputStream.java
+END
+ClobOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClobOutputStream.java
+END
+UnitOfWorkListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/UnitOfWorkListener.java
+END
+LogicalCallableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/LogicalCallableStatement.java
+END
+ClientJDBCObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClientJDBCObjectFactory.java
+END
+StatementCacheInteractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/StatementCacheInteractor.java
+END
+PreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/PreparedStatement.java
+END
+SqlCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SqlCode.java
+END
+UpdateSensitiveBlobLocatorInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/UpdateSensitiveBlobLocatorInputStream.java
+END
+ByteArrayCombinerStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ByteArrayCombinerStream.java
+END
+ClobLocatorOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/ClobLocatorOutputStream.java
+END
+SqlState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/SqlState.java
+END

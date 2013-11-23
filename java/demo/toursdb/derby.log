@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+2013-10-22 14:25:12.426 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.1 - (1): instance a816c00e-0141-e08e-1dfb-00000e06c318 
+on database directory /home/lpxz/eclipse/workspacegrail/derby104/java/demo/toursdb/toursdb   with class loader sun.misc.Launcher$AppClassLoader@6f7e982f
+
+Database Class Loader started - derby.database.classpath=''
+
+2013-10-22 14:25:12.636 GMT:
+Shutting down instance a816c00e-0141-e08e-1dfb-00000e06c318 with class loader sun.misc.Launcher$AppClassLoader@6f7e982f 
+----------------------------------------------------------------

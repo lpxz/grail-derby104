@@ -1,0 +1,779 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist
+END
+dml004.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml004.sql
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/build.xml
+END
+dml043.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml043.sql
+END
+dml080.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml080.sql
+END
+dml008.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml008.sql
+END
+dml045.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml045.sql
+END
+dml082.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml082.sql
+END
+dml047.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml047.sql
+END
+dml165.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml165.sql
+END
+yts811.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/yts811.sql
+END
+dml049.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml049.sql
+END
+cdr002.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr002.sql
+END
+cdr004.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr004.sql
+END
+dml011.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml011.sql
+END
+cdr006.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr006.sql
+END
+dml013.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml013.sql
+END
+dml050.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml050.sql
+END
+dml015.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml015.sql
+END
+dml052.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml052.sql
+END
+dml170.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml170.sql
+END
+dml091.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml091.sql
+END
+dml019.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml019.sql
+END
+dml056.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml056.sql
+END
+dml174.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml174.sql
+END
+dml058.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml058.sql
+END
+dml178.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml178.sql
+END
+xts752.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts752.sql
+END
+dml099.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml099.sql
+END
+dml020.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml020.sql
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/readme
+END
+dml022.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml022.sql
+END
+basetab.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/basetab.sql
+END
+dml024.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml024.sql
+END
+dml061.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml061.sql
+END
+dml026.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml026.sql
+END
+dml144.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml144.sql
+END
+dml181.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml181.sql
+END
+dml065.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml065.sql
+END
+NistScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/NistScripts.java
+END
+dml148.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml148.sql
+END
+dml069.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml069.sql
+END
+schema4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/schema4.sql
+END
+temp_schem10.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/temp_schem10.sql
+END
+yts797.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/yts797.sql
+END
+yts799.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/yts799.sql
+END
+schema8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/schema8.sql
+END
+dml112.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml112.sql
+END
+dml114.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml114.sql
+END
+dml033.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml033.sql
+END
+dml070.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml070.sql
+END
+dml035.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml035.sql
+END
+dml037.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml037.sql
+END
+dml155.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml155.sql
+END
+dml039.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml039.sql
+END
+dml076.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml076.sql
+END
+xts731.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts731.sql
+END
+dml001.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml001.sql
+END
+dml005.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml005.sql
+END
+dml042.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml042.sql
+END
+dml160.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml160.sql
+END
+dml044.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml044.sql
+END
+sdl012.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/sdl012.sql
+END
+dml162.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml162.sql
+END
+dml081.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml081.sql
+END
+dml009.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml009.sql
+END
+xts701.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts701.sql
+END
+dml046.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml046.sql
+END
+dml083.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml083.sql
+END
+dml085.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml085.sql
+END
+xts740.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts740.sql
+END
+yts812.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/yts812.sql
+END
+dml087.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml087.sql
+END
+dml168.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml168.sql
+END
+xts742.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts742.sql
+END
+temp_cts5sch2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/temp_cts5sch2.sql
+END
+cdr003.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr003.sql
+END
+cdr005.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr005.sql
+END
+dml010.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml010.sql
+END
+cdr007.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr007.sql
+END
+dml012.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml012.sql
+END
+dml130.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml130.sql
+END
+dml014.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml014.sql
+END
+dml132.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml132.sql
+END
+dml051.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml051.sql
+END
+dml016.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml016.sql
+END
+dml134.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml134.sql
+END
+dml053.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml053.sql
+END
+dml090.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml090.sql
+END
+dml018.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml018.sql
+END
+dml055.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml055.sql
+END
+dml173.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml173.sql
+END
+dml057.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml057.sql
+END
+dml059.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml059.sql
+END
+dml177.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml177.sql
+END
+dml179.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml179.sql
+END
+xts753.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts753.sql
+END
+copyfiles.ant
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/copyfiles.ant
+END
+dml021.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml021.sql
+END
+dml023.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml023.sql
+END
+dml104.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml104.sql
+END
+dml060.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml060.sql
+END
+dml141.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml141.sql
+END
+dml025.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml025.sql
+END
+dml106.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml106.sql
+END
+dml027.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml027.sql
+END
+dml108.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml108.sql
+END
+dml029.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml029.sql
+END
+dml182.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml182.sql
+END
+dml147.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml147.sql
+END
+dml068.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml068.sql
+END
+dml149.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml149.sql
+END
+xts760.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts760.sql
+END
+flattab.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/flattab.sql
+END
+xts729.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts729.sql
+END
+schema1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/schema1.sql
+END
+schema5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/schema5.sql
+END
+yts796.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/yts796.sql
+END
+yts798.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/yts798.sql
+END
+cdr027.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr027.sql
+END
+dml034.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml034.sql
+END
+dml073.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml073.sql
+END
+dml119.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml119.sql
+END
+dml038.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml038.sql
+END
+xts730.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/xts730.sql
+END
+dml075.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml075.sql
+END
+dml158.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml158.sql
+END
+dml079.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/dml079.sql
+END
+temp_cts5tab.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/temp_cts5tab.sql
+END
+cdr030.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/nist/cdr030.sql
+END

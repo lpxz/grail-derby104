@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/692145/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport
+END
+AccountData_NullFields.dat
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/AccountData_NullFields.dat
+END
+derby-2193.txt
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/derby-2193.txt
+END
+position_info.del
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/position_info.del
+END
+db2ttypes.del
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/db2ttypes.del
+END
+AccountData_format1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/AccountData_format1.dat
+END
+AccountData_format2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/AccountData_format2.dat
+END
+AccountData_format2oops.dat
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/AccountData_format2oops.dat
+END
+UnsupportedFormat1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/UnsupportedFormat1.dat
+END
+TwoLineBadEOF.dat
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/TwoLineBadEOF.dat
+END
+NoEOR.dat
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/NoEOR.dat
+END
+UnsupportedFormat2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/UnsupportedFormat2.dat
+END
+Access1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/Access1.txt
+END
+mixednl.del
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/mixednl.del
+END
+AccountData_defaultformat.dat
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/AccountData_defaultformat.dat
+END
+derby-2193-linenumber.txt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/testData/ImportExport/derby-2193-linenumber.txt
+END

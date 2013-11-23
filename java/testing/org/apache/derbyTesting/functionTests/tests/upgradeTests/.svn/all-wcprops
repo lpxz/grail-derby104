@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1140822/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests
+END
+Changes10_3.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/Changes10_3.java
+END
+Changes10_4.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/644395/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/Changes10_4.java
+END
+UpgradeRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/UpgradeRun.java
+END
+UpgradeChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1140822/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/UpgradeChange.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/build.xml
+END
+BasicSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1140822/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/BasicSetup.java
+END
+PhaseChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/PhaseChanger.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/_Suite.java
+END
+Changes10_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/Changes10_1.java
+END
+Changes10_2.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/upgradeTests/Changes10_2.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/644749/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/slave
+END
+SlaveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/644749/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/slave/SlaveController.java
+END
+ReplicationLogScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/slave/ReplicationLogScan.java
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1140822/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog
+END
+DropDependencyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/DropDependencyFilter.java
+END
+SYSSTATISTICSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSSTATISTICSRowFactory.java
+END
+OIDTDCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/OIDTDCacheable.java
+END
+SYSROUTINEPERMSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSROUTINEPERMSRowFactory.java
+END
+SYSVIEWSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSVIEWSRowFactory.java
+END
+SYSTABLEPERMSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSTABLEPERMSRowFactory.java
+END
+SPSNameCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SPSNameCacheable.java
+END
+SYSCHECKSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSCHECKSRowFactory.java
+END
+TDCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/TDCacheable.java
+END
+SYSFILESRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSFILESRowFactory.java
+END
+DataDictionaryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1140822/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/DataDictionaryImpl.java
+END
+PermissionsCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/PermissionsCacheable.java
+END
+SYSTABLESRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSTABLESRowFactory.java
+END
+SYSKEYSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSKEYSRowFactory.java
+END
+SYSDEPENDSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSDEPENDSRowFactory.java
+END
+SYSSCHEMASRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSSCHEMASRowFactory.java
+END
+SYSROLESRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSROLESRowFactory.java
+END
+SYSFOREIGNKEYSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSFOREIGNKEYSRowFactory.java
+END
+SYSTRIGGERSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSTRIGGERSRowFactory.java
+END
+SYSSTATEMENTSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSSTATEMENTSRowFactory.java
+END
+NameTDCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/NameTDCacheable.java
+END
+SYSCONGLOMERATESRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSCONGLOMERATESRowFactory.java
+END
+DDdependableFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/DDdependableFinder.java
+END
+SystemColumnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SystemColumnImpl.java
+END
+SYSCONSTRAINTSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSCONSTRAINTSRowFactory.java
+END
+PermissionsCatalogRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/PermissionsCatalogRowFactory.java
+END
+CoreDDFinderClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/CoreDDFinderClassInfo.java
+END
+SYSDUMMY1RowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSDUMMY1RowFactory.java
+END
+DD_Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/DD_Version.java
+END
+SYSCOLUMNSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSCOLUMNSRowFactory.java
+END
+SYSALIASESRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSALIASESRowFactory.java
+END
+TableKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/TableKey.java
+END
+DDColumnDependableFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/DDColumnDependableFinder.java
+END
+metadata_net.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/metadata_net.properties
+END
+SYSCOLPERMSRowFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/SYSCOLPERMSRowFactory.java
+END
+TabInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/TabInfoImpl.java
+END
+IndexInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/catalog/IndexInfoImpl.java
+END

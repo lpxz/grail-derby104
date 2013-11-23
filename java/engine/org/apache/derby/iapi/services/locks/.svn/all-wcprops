@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks
+END
+ShExQual.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/ShExQual.java
+END
+Latch.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/Latch.java
+END
+Lockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/Lockable.java
+END
+Limit.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/Limit.java
+END
+LockFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/LockFactory.java
+END
+C_LockFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/C_LockFactory.java
+END
+LockOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/LockOwner.java
+END
+ShExLockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/ShExLockable.java
+END
+CompatibilitySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/CompatibilitySpace.java
+END
+VirtualLockTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/services/locks/VirtualLockTable.java
+END

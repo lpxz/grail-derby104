@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/959554/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc
+END
+ClientDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientDataSource40.java
+END
+ClientXADataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientXADataSource.java
+END
+ClientConnectionPoolDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientConnectionPoolDataSource.java
+END
+ClientBaseDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/959554/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientBaseDataSource.java
+END
+ClientXADataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientXADataSource40.java
+END
+ClientConnectionPoolDataSource40.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientConnectionPoolDataSource40.java
+END
+ClientDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientDataSource.java
+END
+ClientDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/jdbc/ClientDriver.java
+END

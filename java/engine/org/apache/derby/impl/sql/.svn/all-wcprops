@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1305136/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql
+END
+GenericPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericPreparedStatement.java
+END
+CursorTableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/CursorTableReference.java
+END
+LanguageDbPropertySetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/LanguageDbPropertySetter.java
+END
+GenericParameterValueSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericParameterValueSet.java
+END
+GenericLanguageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericLanguageFactory.java
+END
+CursorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/CursorInfo.java
+END
+GenericColumnDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1057333/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericColumnDescriptor.java
+END
+GenericActivationHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericActivationHolder.java
+END
+GenericParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericParameter.java
+END
+GenericClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericClassInfo.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/build.xml
+END
+GenericResultDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericResultDescription.java
+END
+GenericStorablePreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericStorablePreparedStatement.java
+END
+GenericStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/688275/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/GenericStatement.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1056168/db/derby/code/branches/10.4/java/storeless/org/apache/derby/impl/storeless
+END
+NoOpTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/688766/db/derby/code/branches/10.4/java/storeless/org/apache/derby/impl/storeless/NoOpTransaction.java
+END
+EmptyDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1056168/db/derby/code/branches/10.4/java/storeless/org/apache/derby/impl/storeless/EmptyDictionary.java
+END
+StorelessService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/storeless/org/apache/derby/impl/storeless/StorelessService.java
+END
+StorelessDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/storeless/org/apache/derby/impl/storeless/StorelessDatabase.java
+END

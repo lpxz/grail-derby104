@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/688744/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild
+END
+classlister.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/classlister.java
+END
+ReleaseNoteReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/ReleaseNoteReader.java
+END
+propertyconfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/propertyconfig.java
+END
+MessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/MessageBuilder.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/build.xml
+END
+ChangesFileGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/ChangesFileGenerator.java
+END
+ODBCMetadataGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/ODBCMetadataGenerator.java
+END
+ClassSizeCrawler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/ClassSizeCrawler.java
+END
+JiraConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/JiraConnector.java
+END
+ReleaseNotesGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/688744/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/ReleaseNotesGenerator.java
+END
+odbcgen_fragments.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/odbcgen_fragments.properties
+END
+splitmessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/splitmessages.java
+END
+maintversion2props.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/maintversion2props.java
+END

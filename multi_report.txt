@@ -1,0 +1,23 @@
+Generating report for RunSuite multi  null null null true 
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Error: Could not find or load main class org.apache.derby.tools.sysinfo
+Test environment information:
+COMMAND LINE STYLE: jdk13
+TEST CANONS: master
+------------------------------------------------------
+------------------------------------------------------
+Summary results:
+
+Test Run Started: 2013-10-22 22:47:54.0
+Test Run Duration: 00:00:00
+
+0 Tests Run
+ 0% Pass (0 tests passed)
+ 0% Fail (0 tests failed)
+0 Suites skipped
+------------------------------------------------------
+System properties in: multi_prop.txt
+------------------------------------------------------
+------------------------------------------------------
+No Failures.
+------------------------------------------------------

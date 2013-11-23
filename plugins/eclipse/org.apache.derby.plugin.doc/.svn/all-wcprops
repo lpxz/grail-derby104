@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc/build.properties
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/639769/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc/plugin.xml
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc/NOTICE
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc/.project
+END
+toc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.plugin.doc/toc.xml
+END

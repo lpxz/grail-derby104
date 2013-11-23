@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/708173/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/net
+END
+SocketConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/708173/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/net/SocketConnection.java
+END
+ReplicationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/643861/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/net/ReplicationMessage.java
+END
+ReplicationMessageTransmit.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/644749/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/net/ReplicationMessageTransmit.java
+END
+SlaveAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/net/SlaveAddress.java
+END
+ReplicationMessageReceive.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/708173/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/net/ReplicationMessageReceive.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data
+END
+jap_EUC_JP.ctrl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/jap_EUC_JP.ctrl
+END
+Tab1_jp.ctrl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/Tab1_jp.ctrl
+END
+jap_SJIS.ctrl
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/jap_SJIS.ctrl
+END
+jap_EUC_JP.dat
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/jap_EUC_JP.dat
+END
+Tab1_il.ctrl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/Tab1_il.ctrl
+END
+copyfiles.ant
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/copyfiles.ant
+END
+Tab1_fr.ctrl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/i18n/data/Tab1_fr.ctrl
+END

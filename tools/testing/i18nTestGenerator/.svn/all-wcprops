@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/testing/i18nTestGenerator
+END
+genClient1.sed
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/i18nTestGenerator/genClient1.sed
+END
+genClient2.sed
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/i18nTestGenerator/genClient2.sed
+END
+generateClientMessageTest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/i18nTestGenerator/generateClientMessageTest.sh
+END
+clientPrologue.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/i18nTestGenerator/clientPrologue.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/testing/i18nTestGenerator/README
+END

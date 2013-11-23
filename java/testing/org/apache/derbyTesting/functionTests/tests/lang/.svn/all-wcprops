@@ -1,0 +1,1775 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1346473/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang
+END
+LangHarnessJavaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LangHarnessJavaTest.java
+END
+ResultSetsFromPreparedStatementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1085551/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ResultSetsFromPreparedStatementTest.java
+END
+comparisons.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/comparisons.sql
+END
+compressTable_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/compressTable_app.properties
+END
+DeclareGlobalTempTableJavaTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/DeclareGlobalTempTableJavaTest.java
+END
+autoincrement_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/autoincrement_app.properties
+END
+TableFunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/677849/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/TableFunctionTest.java
+END
+refActions3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/refActions3.sql
+END
+ShutdownDatabaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ShutdownDatabaseTest.java
+END
+update.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/update.sql
+END
+GetPropertyInfoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/GetPropertyInfoTest.java
+END
+columnDefaults.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/columnDefaults.sql
+END
+selectivity_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/selectivity_derby.properties
+END
+longStringColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/longStringColumn.java
+END
+InListMultiProbeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/821226/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/InListMultiProbeTest.java
+END
+scrollCursors1_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/scrollCursors1_sed.properties
+END
+largeCodeGen.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/largeCodeGen.java
+END
+dcl_ot1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_ot1.jar
+END
+deadlockMode_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/deadlockMode_sed.properties
+END
+UniqueConstraintSetNullTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/UniqueConstraintSetNullTest.java
+END
+lojreorder.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/lojreorder.sql
+END
+RoutineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/679904/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/RoutineTest.java
+END
+predicatesIntoViews_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/predicatesIntoViews_derby.properties
+END
+CaseExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CaseExpressionTest.java
+END
+autoincrement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/734585/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/autoincrement.sql
+END
+stmtCacheAliases.subsql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/stmtCacheAliases.subsql
+END
+ddlTableLockMode.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ddlTableLockMode.sql
+END
+SecurityPolicyReloadingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SecurityPolicyReloadingTest.java
+END
+CursorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CursorTest.java
+END
+LockTableQuery.subsql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LockTableQuery.subsql
+END
+intersect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/intersect.sql
+END
+inbetween_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/inbetween_derby.properties
+END
+ConcurrentImplicitCreateSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ConcurrentImplicitCreateSchema.java
+END
+setOpPlan.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/setOpPlan.sql
+END
+ReleaseCompileLocksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ReleaseCompileLocksTest.java
+END
+predicatePushdown_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/predicatePushdown_derby.properties
+END
+dropTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dropTable.sql
+END
+altertable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/altertable.sql
+END
+triggerRecursion_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerRecursion_derby.properties
+END
+orderbyElimination_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/orderbyElimination_derby.properties
+END
+lockTable_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/lockTable_derby.properties
+END
+schemas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/schemas.sql
+END
+dcl_emc1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_emc1.jar
+END
+joinDeadlock.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/joinDeadlock.sql
+END
+miscerrors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/miscerrors.sql
+END
+triggerRecursion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerRecursion.sql
+END
+SynonymTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SynonymTest.java
+END
+big.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/big.sql
+END
+ForBitDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ForBitDataTest.java
+END
+maxMemPerTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/maxMemPerTab.java
+END
+desc_index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/desc_index.sql
+END
+CollationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/730163/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CollationTest.java
+END
+CastingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CastingTest.java
+END
+Derby5681Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1346473/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/Derby5681Test.java
+END
+infostreams_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/infostreams_derby.properties
+END
+PrimaryKeyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/PrimaryKeyTest.java
+END
+subquery.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/subquery.sql
+END
+errorCode_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/errorCode_app.properties
+END
+SysDiagVTIMappingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SysDiagVTIMappingTest.java
+END
+dbManagerLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dbManagerLimits.java
+END
+VTITest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/VTITest.java
+END
+predicatePushdown.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/predicatePushdown.sql
+END
+StalePlansTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/StalePlansTest.java
+END
+GroupByExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/652607/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/GroupByExpressionTest.java
+END
+holdCursorJavaReflection_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/holdCursorJavaReflection_app.properties
+END
+UpdatableResultSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/UpdatableResultSetTest.java
+END
+CoalesceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CoalesceTest.java
+END
+specjPlans.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/specjPlans.sql
+END
+langUnitTests.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/langUnitTests.sql
+END
+ExistsWithSubqueriesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ExistsWithSubqueriesTest.java
+END
+joinDeadlock.sql1
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/joinDeadlock.sql1
+END
+SecurityPolicyReloadingTest.unreloadable.policy
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SecurityPolicyReloadingTest.unreloadable.policy
+END
+joinDeadlock.sql2
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/joinDeadlock.sql2
+END
+dcl_emcaddon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_emcaddon.jar
+END
+LangProcedureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LangProcedureTest.java
+END
+triggerBeforeTrig.sql
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerBeforeTrig.sql
+END
+TimestampArithTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/TimestampArithTest.java
+END
+Bug4356Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/Bug4356Test.java
+END
+joinDeadlock_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/joinDeadlock_app.properties
+END
+ddlTableLockMode_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ddlTableLockMode_app.properties
+END
+supersimple_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/supersimple_derby.properties
+END
+GetPropertyInfoTest_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/GetPropertyInfoTest_app.properties
+END
+dcl_ot2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_ot2.jar
+END
+HoldCursorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/HoldCursorTest.java
+END
+SimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SimpleTest.java
+END
+RenameIndexTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/RenameIndexTest.java
+END
+DynamicLikeOptimizationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/DynamicLikeOptimizationTest.java
+END
+fk_nonSPS_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/fk_nonSPS_derby.properties
+END
+holdCursorJavaReflection.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/holdCursorJavaReflection.java
+END
+TriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1056168/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/TriggerTest.java
+END
+XMLTypeAndOpsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/XMLTypeAndOpsTest.java
+END
+triggerRefClause_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerRefClause_app.properties
+END
+nestedCommit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/nestedCommit.sql
+END
+insert_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/insert_sed.properties
+END
+precedence.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/precedence.sql
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/build.xml
+END
+SystemCatalogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SystemCatalogTest.java
+END
+partdml.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/partdml.sql
+END
+userDefMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/userDefMethods.java
+END
+selectivity.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/selectivity.sql
+END
+maxMemPerTab_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/maxMemPerTab_derby.properties
+END
+SecurityPolicyReloadingTest.initial.policy
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SecurityPolicyReloadingTest.initial.policy
+END
+stmtCacheAliasesRemove.subsql
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/stmtCacheAliasesRemove.subsql
+END
+RolesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/RolesTest.java
+END
+supersimple.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/supersimple.sql
+END
+JitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/JitTest.java
+END
+functions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/functions.sql
+END
+cursorerrors.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/cursorerrors.sql
+END
+LangScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/636390/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LangScripts.java
+END
+LOB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LOB.sql
+END
+synonym.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/synonym.sql
+END
+isolationLevels.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/isolationLevels.sql
+END
+big_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/big_derby.properties
+END
+dcl_emc2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_emc2.jar
+END
+WiscMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/WiscMetaData.java
+END
+arithmetic.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/arithmetic.sql
+END
+nonreserved.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/786022/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/nonreserved.sql
+END
+cast.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/cast.sql
+END
+SecurityPolicyReloadingTest.modified.policy
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SecurityPolicyReloadingTest.modified.policy
+END
+GrantRevokeDDLTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/GrantRevokeDDLTest.java
+END
+triggerRefClause.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerRefClause.sql
+END
+triggerGeneral_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerGeneral_app.properties
+END
+StreamsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/958632/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/StreamsTest.java
+END
+partdml_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/partdml_app.properties
+END
+holdCursorIJ_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/holdCursorIJ_app.properties
+END
+AnsiTrimTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/AnsiTrimTest.java
+END
+joinDeadlock_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/joinDeadlock_derby.properties
+END
+GrantRevokeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/GrantRevokeTest.java
+END
+constantExpression.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/constantExpression.sql
+END
+connect_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/connect_derby.properties
+END
+NullableUniqueConstraintTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/956034/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/NullableUniqueConstraintTest.java
+END
+OLAPTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/OLAPTest.java
+END
+bit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/bit.sql
+END
+concateTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/concateTests.java
+END
+columnDefaults_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/columnDefaults_app.properties
+END
+identifier.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/identifier.sql
+END
+XMLMissingClassesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/XMLMissingClassesTest.java
+END
+emptyStatistics_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/emptyStatistics_derby.properties
+END
+valuesclause.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/valuesclause.sql
+END
+outparams.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/outparams.java
+END
+db2Compatibility_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/db2Compatibility_app.properties
+END
+NestedWhereSubqueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/NestedWhereSubqueryTest.java
+END
+subquery2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/subquery2.sql
+END
+insert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/637963/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/insert.sql
+END
+optimizerOverrides.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/optimizerOverrides.sql
+END
+default_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/default_derby.properties
+END
+CreateTableFromQueryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CreateTableFromQueryTest.java
+END
+createTestProcedures.subsql
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/createTestProcedures.subsql
+END
+WiscVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/WiscVTI.java
+END
+openScans_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/openScans_derby.properties
+END
+WISCInsert.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/WISCInsert.java
+END
+XMLBindingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/XMLBindingTest.java
+END
+refActions1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/refActions1.sql
+END
+checkConstraint.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/checkConstraint.sql
+END
+derived.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/derived.sql
+END
+ScrollCursors2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ScrollCursors2Test.java
+END
+TimeHandlingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/TimeHandlingTest.java
+END
+dcl_emc2sm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_emc2sm.jar
+END
+PrepareExecuteDDL.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/PrepareExecuteDDL.java
+END
+floattypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/floattypes.sql
+END
+innerjoin.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/innerjoin.sql
+END
+subqueryFlattening.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/subqueryFlattening.sql
+END
+wisconsin_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/wisconsin_derby.properties
+END
+depend.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/depend.sql
+END
+orderbyElimination.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/731599/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/orderbyElimination.sql
+END
+dcl_ot3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_ot3.jar
+END
+CharUTF8Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CharUTF8Test.java
+END
+StringArrayVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/652095/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/StringArrayVTI.java
+END
+ForUpdateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ForUpdateTest.java
+END
+refActions_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/refActions_derby.properties
+END
+ViewsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/780167/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ViewsTest.java
+END
+logop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/logop.sql
+END
+ErrorMessageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ErrorMessageTest.java
+END
+default_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/default_app.properties
+END
+ejbql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ejbql.sql
+END
+refActions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/refActions.sql
+END
+specjPlans_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/specjPlans_app.properties
+END
+desc_index_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/desc_index_app.properties
+END
+dbjarUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dbjarUtil.java
+END
+simpleThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/simpleThread.java
+END
+currentSchema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/currentSchema.sql
+END
+holdCursorIJ.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/holdCursorIJ.sql
+END
+dcl_emc2s.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_emc2s.jar
+END
+outparams_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/outparams_app.properties
+END
+wisconsin_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/wisconsin_app.properties
+END
+positionedDelUpd.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/positionedDelUpd.sql
+END
+case.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/case.sql
+END
+LazyDefaultSchemaCreationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/706047/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LazyDefaultSchemaCreationTest.java
+END
+ConglomerateSharingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ConglomerateSharingTest.java
+END
+outerjoin.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/outerjoin.sql
+END
+ShutdownDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ShutdownDatabase.java
+END
+paramij.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/paramij.sql
+END
+aggbuiltin.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/aggbuiltin.sql
+END
+ungroupedAggregatesNegative.sql
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ungroupedAggregatesNegative.sql
+END
+infostreams.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/infostreams.sql
+END
+stringtypes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/stringtypes.sql
+END
+OrderByAndSortAvoidance.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/802555/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/OrderByAndSortAvoidance.java
+END
+currentSchema_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/currentSchema_app.properties
+END
+outparams30.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/outparams30.java
+END
+bit2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/bit2.sql
+END
+closed_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/closed_app.properties
+END
+updatableResultSet_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/updatableResultSet_app.properties
+END
+maxMemPerTab_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/maxMemPerTab_app.properties
+END
+inbetween.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/inbetween.sql
+END
+subquery2_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/subquery2_derby.properties
+END
+implicitConversions_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/implicitConversions_derby.properties
+END
+longStringColumn_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/longStringColumn_derby.properties
+END
+aggregate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/aggregate.sql
+END
+connect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/connect.sql
+END
+aggregateOptimization_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/aggregateOptimization_app.properties
+END
+predicatesIntoViews.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/predicatesIntoViews.sql
+END
+lockTable_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/lockTable_app.properties
+END
+deadlockMode_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/deadlockMode_derby.properties
+END
+dbManagerLimits_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dbManagerLimits_app.properties
+END
+lockTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/lockTable.sql
+END
+triggerGeneral.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerGeneral.sql
+END
+altertable_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/altertable_derby.properties
+END
+wisconsin_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/wisconsin_sed.properties
+END
+ErrorCodeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/957783/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ErrorCodeTest.java
+END
+WarehouseVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/WarehouseVTI.java
+END
+emptyStatistics.sql
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/emptyStatistics.sql
+END
+GroupByTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/882965/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/GroupByTest.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1305136/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/_Suite.java
+END
+refActions2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/refActions2.sql
+END
+aggregateOptimization_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/aggregateOptimization_derby.properties
+END
+joins.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/639040/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/joins.sql
+END
+wisc_setup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/802555/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/wisc_setup.sql
+END
+compressTable_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/compressTable_derby.properties
+END
+openScans.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/openScans.sql
+END
+dcl_id.jar
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_id.jar
+END
+closed.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/closed.java
+END
+UnaryArithmeticParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/UnaryArithmeticParameterTest.java
+END
+deadlockMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/deadlockMode.java
+END
+aggregateOptimization.sql
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/aggregateOptimization.sql
+END
+db2Compatibility.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/db2Compatibility.sql
+END
+RenameTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/RenameTableTest.java
+END
+closed_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/closed_sed.properties
+END
+subquery_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/subquery_derby.properties
+END
+sys_vti_test_derby.tstlog
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/sys_vti_test_derby.tstlog
+END
+updatableResultSet_sed.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/updatableResultSet_sed.properties
+END
+orderby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/639013/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/orderby.sql
+END
+NullIfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/NullIfTest.java
+END
+Bug5054Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/Bug5054Test.java
+END
+tempRestrictions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/tempRestrictions.sql
+END
+select.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/select.sql
+END
+StatementPlanCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/StatementPlanCacheTest.java
+END
+consistencyChecker.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/consistencyChecker.sql
+END
+declareGlobalTempTableJavaJDBC30.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/declareGlobalTempTableJavaJDBC30.java
+END
+CurrentOfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CurrentOfTest.java
+END
+StringColumnVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/636010/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/StringColumnVTI.java
+END
+MathTrigFunctionsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/MathTrigFunctionsTest.java
+END
+dummy_vti.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/759978/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dummy_vti.jar
+END
+AggregateClassLoadingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/AggregateClassLoadingTest.java
+END
+reopenScan.sql
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/reopenScan.sql
+END
+wisconsin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/wisconsin.java
+END
+RoutineSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/RoutineSecurityTest.java
+END
+dcl_emc2l.jar
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_emc2l.jar
+END
+SQLAuthorizationPropTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SQLAuthorizationPropTest.java
+END
+implicitConversions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/implicitConversions.sql
+END
+declareGlobalTempTableJavaJDBC30_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/declareGlobalTempTableJavaJDBC30_app.properties
+END
+Bug5052rtsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/Bug5052rtsTest.java
+END
+simpleThreadWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/simpleThreadWrapper.java
+END
+DB2IsolationLevels.sql
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/DB2IsolationLevels.sql
+END
+modifyColumn.sql
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/modifyColumn.sql
+END
+functions_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/functions_app.properties
+END
+supersimple_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/supersimple_app.properties
+END
+SpillHashTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/SpillHashTest.java
+END
+DatabaseClassLoadingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/767954/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/DatabaseClassLoadingTest.java
+END
+subqueryFlattening_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/subqueryFlattening_derby.properties
+END
+dcl_java.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/dcl_java.jar
+END
+CommentTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/984080/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CommentTest.java
+END
+CompressTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1305136/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CompressTableTest.java
+END
+connect_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/connect_app.properties
+END
+langUnitTests_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/langUnitTests_derby.properties
+END
+nestedCommit_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/nestedCommit_app.properties
+END
+CollationTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/880768/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/CollationTest2.java
+END
+union.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/union.sql
+END
+DBInJarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/659264/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/DBInJarTest.java
+END
+datetime.sql
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/datetime.sql
+END
+TableVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/TableVTI.java
+END
+cursorerrors_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/cursorerrors_derby.properties
+END
+nulls.sql
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/nulls.sql
+END
+LOBDB2compatibility.sql
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/LOBDB2compatibility.sql
+END
+fk_nonSPS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/fk_nonSPS.sql
+END
+implicitConversions_app.properties
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/implicitConversions_app.properties
+END
+scrollCursors1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/scrollCursors1.sql
+END
+UpdateCursorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/UpdateCursorTest.java
+END
+delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/delete.sql
+END
+compressTable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/compressTable.sql
+END
+DistinctTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/DistinctTest.java
+END
+FullCollationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/FullCollationTests.java
+END
+TruncateTableTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/643002/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/TruncateTableTest.java
+END
+ScrollCursors1Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ScrollCursors1Test.java
+END
+triggerGeneral_derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/triggerGeneral_derby.properties
+END
+ProcedureInTriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/lang/ProcedureInTriggerTest.java
+END

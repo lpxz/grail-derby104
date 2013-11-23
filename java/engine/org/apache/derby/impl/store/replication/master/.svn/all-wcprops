@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/647470/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/master
+END
+LogShipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/master/LogShipper.java
+END
+MasterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/647470/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/master/MasterController.java
+END
+AsynchronousLogShipper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/644733/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/replication/master/AsynchronousLogShipper.java
+END

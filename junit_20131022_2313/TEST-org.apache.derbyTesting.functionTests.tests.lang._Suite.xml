@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="lpxz-ThinkPad-W530" name="org.apache.derbyTesting.functionTests.tests.lang._Suite" tests="1" time="0.0" timestamp="2013-10-22T15:13:41">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="derby.junit.standardtime" value="2013-10-22 11:13 PM CST" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="derby.junit.classpath" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="out.pptesting.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes.pptesting" />
+    <property name="derby.client.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/client/org/apache/derby" />
+    <property name="os.name" value="Linux" />
+    <property name="sun.boot.class.path" value="/home/lpxz/pool/jdk1.7.0_13/jre/lib/resources.jar:/home/lpxz/pool/jdk1.7.0_13/jre/lib/rt.jar:/home/lpxz/pool/jdk1.7.0_13/jre/lib/sunrsasign.jar:/home/lpxz/pool/jdk1.7.0_13/jre/lib/jsse.jar:/home/lpxz/pool/jdk1.7.0_13/jre/lib/jce.jar:/home/lpxz/pool/jdk1.7.0_13/jre/lib/charsets.jar:/home/lpxz/pool/jdk1.7.0_13/jre/lib/jfr.jar:/home/lpxz/pool/jdk1.7.0_13/jre/classes" />
+    <property name="sanity.out.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes/org/apache/derby/shared/common/sanity" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="javadoc.tool.jdk16" value="${jdk16}/bin/javadoc" />
+    <property name="derby.shared.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/shared" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/home/lpxz/softwares/apache-ant-1.8.4" />
+    <property name="javadoc.tool.jdk14" value="/home/lpxz/pool/jdk1.7.0_13/jre/../bin/javadoc" />
+    <property name="java.runtime.version" value="1.7.0_13-b20" />
+    <property name="derby.build.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/build/org/apache/derbyBuild" />
+    <property name="derby.metadata.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/engine/org/apache/derby/impl/jdbc" />
+    <property name="out.storeless.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes.storeless" />
+    <property name="derby.testing.dir" value="org/apache/derbyTesting" />
+    <property name="derby.engine.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/engine" />
+    <property name="derby.demo.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/demo" />
+    <property name="user.name" value="lpxz" />
+    <property name="out.testdir" value="/home/lpxz/eclipse/workspacegrail/derby104/testout_${jdk}" />
+    <property name="state.file" value="/home/lpxz/eclipse/workspacegrail/derby104/java/engine/state.properties" />
+    <property name="derby.testing.junit.dir" value="org/apache/derbyTesting/junit" />
+    <property name="jarsdist.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/jars" />
+    <property name="javacom.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/com/ibm/db2j" />
+    <property name="javadoctools.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/tools/javadoc" />
+    <property name="user.language" value="en" />
+    <property name="class.dir" value="classes" />
+    <property name="derby.engine.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/engine/org/apache/derby" />
+    <property name="javadoc.temp.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/javadoc/temp" />
+    <property name="sun.boot.library.path" value="/home/lpxz/pool/jdk1.7.0_13/jre/lib/amd64" />
+    <property name="instrumented.jars" value="/home/lpxz/eclipse/workspacegrail/derby104/jars/emma/lib" />
+    <property name="derby.junit.jvm" value="java" />
+    <property name="derby.junit.DSTAMP" value="20131022" />
+    <property name="outcom.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes/com/ibm/db2j" />
+    <property name="derby.shared.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/shared/org/apache/derby" />
+    <property name="ant.project.default-target" value="buildsource" />
+    <property name="derby.testing.system.dir" value="org/apache/derbyTesting/system" />
+    <property name="java.version" value="1.7.0_13" />
+    <property name="tests.failed" value="true" />
+    <property name="locales.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/com/ibm/db2j/locales" />
+    <property name="user.timezone" value="" />
+    <property name="derby.junit.TODAY" value="October 22 2013" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="/home/lpxz/pool/jdk1.7.0_13/jre/lib/endorsed" />
+    <property name="derby.testing.perf.dir" value="org/apache/derbyTesting/perf" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="javadoc.inclusions" value="/home/lpxz/eclipse/workspacegrail/derby104/javadoc/temp/javadoc_inclusions" />
+    <property name="java.class.version" value="51.0" />
+    <property name="user.country" value="US" />
+    <property name="java.home" value="/home/lpxz/pool/jdk1.7.0_13/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="/home/lpxz/eclipse/workspacegrail/derby104/build.xml" />
+    <property name="os.version" value="3.2.0-29-generic" />
+    <property name="derby.tools.locales.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/tools/org/apache/derby/loc" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="23.7-b01" />
+    <property name="derby.client.locales.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/client/org/apache/derby/loc" />
+    <property name="derby.junit.timestamp" value="20131022_2313" />
+    <property name="ant.library.dir" value="/home/lpxz/softwares/apache-ant-1.8.4/lib" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="instrumented.classes" value="/home/lpxz/eclipse/workspacegrail/derby104/jars/emma/classes" />
+    <property name="derby.testing.suites.dir" value="org/apache/derbyTesting/functionTests/suites" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="com.dir" value="com/ibm/db2j" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="derby.dir" value="org/apache/derby" />
+    <property name="sanity.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/shared/org/apache/derby/shared/common/sanity" />
+    <property name="derby.client.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/client" />
+    <property name="derbysrc.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java" />
+    <property name="metadata.out.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes/org/apache/derby/impl/jdbc" />
+    <property name="user.home" value="/home/lpxz" />
+    <property name="derby.storeless.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/storeless" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="derby.build.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/build" />
+    <property name="derby.testing.functest.dir" value="org/apache/derbyTesting/functionTests" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="derby.drda.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/drda/org/apache/derby" />
+    <property name="derby.testing.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/testing" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="java.class.path" value="/home/lpxz/eclipse/workspacegrail/derby104/tools/java/junit.jar:/home/lpxz/eclipse/workspacegrail/derby104:/home/lpxz/xalan.jar:/home/lpxz/java_standard/lib/dt.jar:/home/lpxz/java_standard/lib/tools.jar:/home/lpxz/java_standard/lib:/home/lpxz/aspectj1.7/lib/aspectjrt.jar:/home/lpxz/softwares/apache-ant-1.8.4/lib/ant-launcher.jar:/home/lpxz/softwares/apache-ant-1.8.4/lib/ant.jar:/home/lpxz/softwares/apache-ant-1.8.4/lib/ant-junit.jar:/home/lpxz/softwares/apache-ant-1.8.4/lib/ant-junit4.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner org.apache.derbyTesting.functionTests.tests.lang._Suite filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=true outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/lpxz/eclipse/workspacegrail/derby104/junit_20131022_2313/TEST-org.apache.derbyTesting.functionTests.tests.lang._Suite.xml crashfile=/home/lpxz/eclipse/workspacegrail/derby104/junit_20131022_2313/junitvmwatcher2160729377116250840.properties propsfile=/home/lpxz/eclipse/workspacegrail/derby104/junit_20131022_2313/junit8343388615076509103.properties" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.4 compiled on May 22 2012" />
+    <property name="derby.testing.out.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes/org/apache/derbyTesting" />
+    <property name="derbyTesting.oldReleasePath" value="" />
+    <property name="derby.locales.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/engine/org/apache/derby/loc" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="j14lib" value="/home/lpxz/pool/jdk1.5.0_22/jre/lib" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="drdaloc.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes/org/apache/derby/loc/drda" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="emmabase" value="/home/lpxz/eclipse/workspacegrail/derby104/jars/emma" />
+    <property name="j15lib" value="/home/lpxz/pool/jdk1.5.0_22/jre/lib" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="functest.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/com/ibm/db2j/functionTests" />
+    <property name="derby.testing.unittest.dir" value="org/apache/derbyTesting/unitTests" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="loc.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes/org/apache/derby/loc" />
+    <property name="derby.junit.TSTAMP" value="2313" />
+    <property name="sanity" value="true" />
+    <property name="os.arch" value="amd64" />
+    <property name="public.api.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/javadoc/publishedapi" />
+    <property name="javasrc.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="derby.tools.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/tools/org/apache/derby" />
+    <property name="java.ext.dirs" value="/home/lpxz/pool/jdk1.7.0_13/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="user.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/junit_20131022_2313" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="properties.dir" value="tools/ant/properties" />
+    <property name="basedir" value="/home/lpxz/eclipse/workspacegrail/derby104" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="javatools.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/tools/java" />
+    <property name="ant.core.lib" value="/home/lpxz/softwares/apache-ant-1.8.4/lib/ant.jar" />
+    <property name="derby.drda.locales.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/drda/org/apache/derby/loc/drda" />
+    <property name="file.encoding" value="UTF8" />
+    <property name="javadoc.exclusions" value="/home/lpxz/eclipse/workspacegrail/derby104/javadoc/temp/javadoc_exclusions" />
+    <property name="derby.drda.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/drda" />
+    <property name="derby.tools.src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/java/tools" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="out.javadoc.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/javadoc" />
+    <property name="src.dir" value="/home/lpxz/eclipse/workspacegrail/derby104" />
+    <property name="ant.project.invoked-targets" value="junit-core" />
+    <property name="emma.verbosity.level" value="silent" />
+    <property name="out.dir" value="/home/lpxz/eclipse/workspacegrail/derby104/classes" />
+  </properties>
+  <error message="org.apache.derbyTesting.functionTests.tests.lang._Suite" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: org.apache.derbyTesting.functionTests.tests.lang._Suite
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:423)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:356)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:188)
+</error>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

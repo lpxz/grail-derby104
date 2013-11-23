@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/809201/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc
+END
+BrokeredConnection40.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredConnection40.java
+END
+BrokeredStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/809201/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredStatement.java
+END
+BrokeredStatementControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/809201/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredStatementControl.java
+END
+EngineConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/808933/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/EngineConnection.java
+END
+JDBCBoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/JDBCBoot.java
+END
+BrokeredStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredStatement40.java
+END
+ResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/ResourceAdapter.java
+END
+EngineStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/EngineStatement.java
+END
+AuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/AuthenticationService.java
+END
+EngineLOB.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/643328/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/EngineLOB.java
+END
+BrokeredCallableStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/809201/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredCallableStatement.java
+END
+ConnectionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/ConnectionContext.java
+END
+FailedProperties40.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/FailedProperties40.java
+END
+BrokeredCallableStatement30.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredCallableStatement30.java
+END
+BrokeredPreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/809201/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredPreparedStatement.java
+END
+BrokeredCallableStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredCallableStatement40.java
+END
+DRDAServerStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/647472/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/DRDAServerStarter.java
+END
+EngineParameterMetaData.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/EngineParameterMetaData.java
+END
+BrokeredPreparedStatement30.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredPreparedStatement30.java
+END
+BrokeredPreparedStatement40.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredPreparedStatement40.java
+END
+BrokeredConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/808933/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredConnection.java
+END
+EnginePreparedStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/EnginePreparedStatement.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/build.xml
+END
+BrokeredConnectionControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/808933/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredConnectionControl.java
+END
+EngineResultSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/EngineResultSet.java
+END
+BrokeredConnection30.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/638931/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/jdbc/BrokeredConnection30.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util
+END
+SelectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/SelectionUtil.java
+END
+DerbyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/DerbyUtils.java
+END
+DerbyServerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/DerbyServerUtils.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/plugins/eclipse/org.apache.derby.ui/src/org/apache/derby/ui/util/Logger.java
+END

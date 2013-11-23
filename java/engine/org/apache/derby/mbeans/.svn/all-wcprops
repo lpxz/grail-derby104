@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans
+END
+JDBCMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans/JDBCMBean.java
+END
+VersionMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans/VersionMBean.java
+END
+Management.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans/Management.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans/build.xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans/package.html
+END
+ManagementMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/engine/org/apache/derby/mbeans/ManagementMBean.java
+END

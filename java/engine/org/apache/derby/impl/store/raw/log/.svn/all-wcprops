@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/781500/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log
+END
+FileLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/FileLogger.java
+END
+LogRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/LogRecord.java
+END
+LogCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/LogCounter.java
+END
+ChecksumOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/ChecksumOperation.java
+END
+Scan.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/Scan.java
+END
+LogToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/781500/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/LogToFile.java
+END
+D_LogToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/D_LogToFile.java
+END
+LogAccessFileBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/LogAccessFileBuffer.java
+END
+FlushedScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/FlushedScan.java
+END
+StreamLogScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/StreamLogScan.java
+END
+D_FlushedScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/D_FlushedScan.java
+END
+LogAccessFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/LogAccessFile.java
+END
+CheckpointOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/643892/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/CheckpointOperation.java
+END
+FlushedScanHandle.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/FlushedScanHandle.java
+END
+ReadOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/643892/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/raw/log/ReadOnly.java
+END

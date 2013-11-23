@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit
+END
+UTF8UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/UTF8UtilTest.java
+END
+StatementKeyFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/StatementKeyFactoryTest.java
+END
+SystemPrivilegesPermissionTest.policy
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/SystemPrivilegesPermissionTest.policy
+END
+FormatableBitSetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/FormatableBitSetTest.java
+END
+SystemPrivilegesPermissionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/647474/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/SystemPrivilegesPermissionTest.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/_Suite.java
+END
+JDBCStatementCacheTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/unitTests/junit/JDBCStatementCacheTest.java
+END

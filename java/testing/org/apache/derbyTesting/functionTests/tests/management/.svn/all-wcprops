@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/807715/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management
+END
+VersionMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/VersionMBeanTest.java
+END
+_Suite.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/_Suite.java
+END
+JMXConnectionGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/637237/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/JMXConnectionGetter.java
+END
+JMXTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/637237/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/JMXTest.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/build.xml
+END
+ManagementMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/807715/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/ManagementMBeanTest.java
+END
+PlatformConnectionGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/637237/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/PlatformConnectionGetter.java
+END
+JMXConnectionDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/JMXConnectionDecorator.java
+END
+InactiveManagementMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/InactiveManagementMBeanTest.java
+END
+MBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/MBeanTest.java
+END
+NetworkServerMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/642950/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/NetworkServerMBeanTest.java
+END
+JDBCMBeanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/JDBCMBeanTest.java
+END
+RemoteConnectionGetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/637237/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/management/RemoteConnectionGetter.java
+END

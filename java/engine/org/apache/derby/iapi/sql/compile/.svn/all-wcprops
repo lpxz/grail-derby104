@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile
+END
+CostEstimate.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/CostEstimate.java
+END
+TypeCompilerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/TypeCompilerFactory.java
+END
+OptimizerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/OptimizerFactory.java
+END
+OptimizableList.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/OptimizableList.java
+END
+C_NodeTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/C_NodeTypes.java
+END
+TypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/TypeCompiler.java
+END
+NodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/NodeFactory.java
+END
+ExpressionClassBuilderInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/ExpressionClassBuilderInterface.java
+END
+AccessPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/AccessPath.java
+END
+Optimizable.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/Optimizable.java
+END
+CompilerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/CompilerContext.java
+END
+Visitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/Visitable.java
+END
+JoinStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/JoinStrategy.java
+END
+Optimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/Optimizer.java
+END
+CodeGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/CodeGeneration.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/Parser.java
+END
+OptimizablePredicateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/OptimizablePredicateList.java
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/Visitor.java
+END
+OptimizablePredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/OptimizablePredicate.java
+END
+RowOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/RowOrdering.java
+END
+RequiredRowOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/sql/compile/RequiredRowOrdering.java
+END

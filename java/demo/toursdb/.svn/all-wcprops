@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb
+END
+smallisle.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/smallisle.gif
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/build.xml
+END
+witchisle.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/witchisle.gif
+END
+ToursDB_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/ToursDB_schema.sql
+END
+toursdb_readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/toursdb_readme.html
+END
+loadAIRLINES.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadAIRLINES.sql
+END
+insertMaps.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/insertMaps.java
+END
+loadTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadTables.sql
+END
+cupisle.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/cupisle.gif
+END
+loadCOUNTRIES.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadCOUNTRIES.sql
+END
+loadCITIES.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadCITIES.sql
+END
+loadFLIGHTS1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadFLIGHTS1.sql
+END
+loadFLIGHTS2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadFLIGHTS2.sql
+END
+toursdb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/toursdb.xml
+END
+loadFLIGHTAVAILABILITY1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadFLIGHTAVAILABILITY1.sql
+END
+disconnect.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/disconnect.sql
+END
+loadFLIGHTAVAILABILITY2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/demo/toursdb/loadFLIGHTAVAILABILITY2.sql
+END

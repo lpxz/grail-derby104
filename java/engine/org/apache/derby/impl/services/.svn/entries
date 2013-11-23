@@ -1,0 +1,98 @@
+10
+
+dir
+1534620
+https://svn.apache.org/repos/asf/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/services
+https://svn.apache.org/repos/asf
+
+
+
+2009-11-24T02:30:52.375731Z
+883574
+kmarsden
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+uuid
+dir
+
+monitor
+dir
+
+locks
+dir
+
+stream
+dir
+
+bytecode
+dir
+
+jmx
+dir
+
+jmxnone
+dir
+
+build.xml
+file
+
+
+
+
+2013-10-22T12:57:03.356076Z
+844eba6243c9632f27938a119705114e
+2008-02-12T19:50:42.810074Z
+627062
+djd
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4103
+
+timer
+dir
+
+jce
+dir
+
+cache
+dir
+
+daemon
+dir
+
+reflect
+dir
+

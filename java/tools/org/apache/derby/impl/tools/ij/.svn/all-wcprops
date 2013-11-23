@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/740165/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij
+END
+ijResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijResult.java
+END
+AttributeHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/AttributeHolder.java
+END
+AsyncStatement.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/AsyncStatement.java
+END
+UCode_CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/UCode_CharStream.java
+END
+ConnectionEnv.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ConnectionEnv.java
+END
+mtTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/mtTestCase.java
+END
+ijMultiResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijMultiResult.java
+END
+ijExceptionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijExceptionResult.java
+END
+ijException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijException.java
+END
+utilMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/utilMain.java
+END
+ijTokenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijTokenException.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/Session.java
+END
+ijVectorResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijVectorResult.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/Main.java
+END
+ijRowResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijRowResult.java
+END
+mtTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/mtTime.java
+END
+URLCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/URLCheck.java
+END
+mtTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/mtTester.java
+END
+xaHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/740165/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/xaHelper.java
+END
+mtGrammar.jj
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/mtGrammar.jj
+END
+ijResultSetResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijResultSetResult.java
+END
+util.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/util.java
+END
+ijConnectionResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijConnectionResult.java
+END
+ijResultImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijResultImpl.java
+END
+ij.jj
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ij.jj
+END
+ijStatementResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijStatementResult.java
+END
+ijWarningResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijWarningResult.java
+END
+ijMultipleResultSetResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijMultipleResultSetResult.java
+END
+ijFatalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ijFatalException.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/ParseException.java
+END
+mtTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/mtTestSuite.java
+END
+xaAbstractHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/xaAbstractHelper.java
+END
+StatementFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/tools/org/apache/derby/impl/tools/ij/StatementFinder.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/stmtcache
+END
+JDBCStatementCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/stmtcache/JDBCStatementCache.java
+END
+StatementKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/stmtcache/StatementKey.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/stmtcache/package.html
+END
+StatementKeyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/client/org/apache/derby/client/am/stmtcache/StatementKeyFactory.java
+END

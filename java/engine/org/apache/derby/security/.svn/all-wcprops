@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/engine/org/apache/derby/security
+END
+DatabasePermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/security/DatabasePermission.java
+END
+SystemPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/637294/db/derby/code/branches/10.4/java/engine/org/apache/derby/security/SystemPermission.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/security/build.xml
+END

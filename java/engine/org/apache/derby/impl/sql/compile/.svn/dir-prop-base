@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 85
+SQLParserTokenManager.java
+SQLParser.java
+TokenMgrError.java
+SQLParserConstants.java
+
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar
+END
+DBMSnodes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar/DBMSnodes.properties
+END
+extraDBMStypes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar/extraDBMStypes.properties
+END
+tools.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar/tools.properties
+END
+dnc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar/dnc.properties
+END
+net.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar/net.properties
+END
+extraDBMSclasses.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/jar/extraDBMSclasses.properties
+END

@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests
+END
+ReplicationRun_Local_StateTest_part1_2.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/636864/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1_2.java
+END
+ShutdownSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownSlave.java
+END
+ShutdownSlaveServerByOsKill.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownSlaveServerByOsKill.java
+END
+TestPostStoppedSlaveServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPostStoppedSlaveServer.java
+END
+KillMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/636864/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/KillMaster.java
+END
+TestPreStartedSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStartedSlave.java
+END
+ReplicationRun_Local.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/641329/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local.java
+END
+README.framework
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/README.framework
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/build.xml
+END
+README.runningTests
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/README.runningTests
+END
+ReplicationRun_Full.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/636864/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Full.java
+END
+ReplicationRun_Local_StateTest_part2.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/636864/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part2.java
+END
+TestPreStoppedSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStoppedSlave.java
+END
+ShutdownSlaveServerViaNwSrvCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownSlaveServerViaNwSrvCtrl.java
+END
+ReplicationSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/643415/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationSuite.java
+END
+replicationtest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/replicationtest.properties
+END
+ShutdownMasterServerByOsKill.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownMasterServerByOsKill.java
+END
+ShutdownMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownMaster.java
+END
+TestPreStartedMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStartedMaster.java
+END
+DestroySlaveDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/DestroySlaveDB.java
+END
+TestPostStartedMasterAndSlave_Failover.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPostStartedMasterAndSlave_Failover.java
+END
+ShutdownSlaveServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownSlaveServer.java
+END
+ReplicationTestRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationTestRun.java
+END
+ReplicationRun.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/666631/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun.java
+END
+ReplicationRun_Local_StateTest_part1_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/643399/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1_1.java
+END
+TestPreStartedSlaveServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStartedSlaveServer.java
+END
+ReplicationRun_Distributed.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/636864/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Distributed.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/641302/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/Utils.java
+END
+TestPreStoppedMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStoppedMaster.java
+END
+ReplicationRun_Local_StateTest_part1_3.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/636864/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1_3.java
+END
+ShutdownMasterServerViaNwSrvCtrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownMasterServerViaNwSrvCtrl.java
+END
+TestPreInitSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreInitSlave.java
+END
+ReplicationRun_CleanUp.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_CleanUp.java
+END
+SimplePerfTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/SimplePerfTest.java
+END
+TestPostStartedMasterAndSlave_StopSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPostStartedMasterAndSlave_StopSlave.java
+END
+TestPreStoppedSlaveServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStoppedSlaveServer.java
+END
+ClientRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ClientRunner.java
+END
+README.testproperties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/README.testproperties
+END
+ShutdownSlaveDb.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownSlaveDb.java
+END
+ShutdownMasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownMasterServer.java
+END
+ReplicationRun_Local_StateTest_part1.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/643828/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_StateTest_part1.java
+END
+TestPreStartedMasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStartedMasterServer.java
+END
+ReplicationTestRun_Verify.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationTestRun_Verify.java
+END
+StandardTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/StandardTests.java
+END
+README.testReplication
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/README.testReplication
+END
+KillSlave.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/KillSlave.java
+END
+TestPostStartedMasterAndSlave_StopMaster.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPostStartedMasterAndSlave_StopMaster.java
+END
+TestPreStoppedMasterServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/TestPreStoppedMasterServer.java
+END
+ReplicationRun_Local_1.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/643415/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ReplicationRun_Local_1.java
+END
+ShutdownMasterDb.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/tests/replicationTests/ShutdownMasterDb.java
+END

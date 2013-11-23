@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/TEMPLATES
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/TEMPLATES/index.html
+END
+index.shtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/TEMPLATES/index.shtml
+END
+env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/TEMPLATES/env.sh
+END
+testenv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/testing/reporting/TEMPLATES/testenv.sh
+END

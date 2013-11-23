@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/755636/db/derby/code/branches/10.4/java/drda/org/apache/derby/drda
+END
+template.policy
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/755636/db/derby/code/branches/10.4/java/drda/org/apache/derby/drda/template.policy
+END
+NetServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/drda/org/apache/derby/drda/NetServlet.java
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/drda/org/apache/derby/drda/build.xml
+END
+NetworkServerControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/drda/org/apache/derby/drda/NetworkServerControl.java
+END
+server.policy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/java/drda/org/apache/derby/drda/server.policy
+END

@@ -1,0 +1,1247 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1305136/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile
+END
+TernaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TernaryOperatorNode.java
+END
+SingleChildResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SingleChildResultSetNode.java
+END
+ConcatenationOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ConcatenationOperatorNode.java
+END
+JavaToSQLValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/JavaToSQLValueNode.java
+END
+SubqueryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SubqueryList.java
+END
+UnaryLogicalOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UnaryLogicalOperatorNode.java
+END
+OrderByNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OrderByNode.java
+END
+BaseJoinStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BaseJoinStrategy.java
+END
+SavepointNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SavepointNode.java
+END
+UnaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UnaryOperatorNode.java
+END
+FromVTI.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/759978/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/FromVTI.java
+END
+TypeCompilerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TypeCompilerFactoryImpl.java
+END
+UpdateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1044367/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UpdateNode.java
+END
+CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CharStream.java
+END
+CoalesceFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CoalesceFunctionNode.java
+END
+DropRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropRoleNode.java
+END
+MiscellaneousStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/MiscellaneousStatementNode.java
+END
+NumericTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NumericTypeCompiler.java
+END
+CompilerContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CompilerContextImpl.java
+END
+GroupByColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/GroupByColumn.java
+END
+RelationalOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RelationalOperator.java
+END
+VarbitConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/VarbitConstantNode.java
+END
+SQLToJavaValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SQLToJavaValueNode.java
+END
+TableElementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TableElementNode.java
+END
+TableOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TableOperatorNode.java
+END
+LOBTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/LOBTypeCompiler.java
+END
+SetOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/679035/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SetOperatorNode.java
+END
+RenameNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RenameNode.java
+END
+HalfOuterJoinNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/HalfOuterJoinNode.java
+END
+TransactionStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TransactionStatementNode.java
+END
+ValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ValueNode.java
+END
+CreateAliasNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateAliasNode.java
+END
+SetRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SetRoleNode.java
+END
+FKConstraintDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/FKConstraintDefinitionNode.java
+END
+TimestampOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TimestampOperatorNode.java
+END
+OrNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OrNode.java
+END
+NOPStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NOPStatementNode.java
+END
+LikeEscapeOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/LikeEscapeOperatorNode.java
+END
+TablePrivilegesNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TablePrivilegesNode.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ParseException.java
+END
+CreateSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateSchemaNode.java
+END
+TestConstraintNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TestConstraintNode.java
+END
+ProjectRestrictNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ProjectRestrictNode.java
+END
+GroupByNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/756052/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/GroupByNode.java
+END
+BaseTableNumbersVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BaseTableNumbersVisitor.java
+END
+ActivationClassBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ActivationClassBuilder.java
+END
+LockTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/LockTableNode.java
+END
+ReplaceAggregatesWithCRVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ReplaceAggregatesWithCRVisitor.java
+END
+AndNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/AndNode.java
+END
+GetCurrentConnectionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/GetCurrentConnectionNode.java
+END
+MaxMinAggregateDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/MaxMinAggregateDefinition.java
+END
+InsertNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/InsertNode.java
+END
+FromTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/FromTable.java
+END
+C_NodeNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/C_NodeNames.java
+END
+IsNullNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/IsNullNode.java
+END
+CLOBTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CLOBTypeCompiler.java
+END
+BooleanTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BooleanTypeCompiler.java
+END
+ParserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ParserImpl.java
+END
+NestedLoopJoinStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NestedLoopJoinStrategy.java
+END
+ExecSPSNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ExecSPSNode.java
+END
+GrantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/GrantNode.java
+END
+NormalizeResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NormalizeResultSetNode.java
+END
+NumericConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NumericConstantNode.java
+END
+MethodCallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/MethodCallNode.java
+END
+RevokeRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RevokeRoleNode.java
+END
+AlterTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/AlterTableNode.java
+END
+TableName.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TableName.java
+END
+SetTransactionIsolationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SetTransactionIsolationNode.java
+END
+UnaryArithmeticOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UnaryArithmeticOperatorNode.java
+END
+StaticMethodCallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/679904/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/StaticMethodCallNode.java
+END
+SpecialFunctionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SpecialFunctionNode.java
+END
+DropTriggerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropTriggerNode.java
+END
+CollectNodesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CollectNodesVisitor.java
+END
+VerifyAggregateExpressionsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/652607/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/VerifyAggregateExpressionsVisitor.java
+END
+FromList.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/FromList.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/Predicate.java
+END
+OrderedColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OrderedColumn.java
+END
+SimpleStringOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SimpleStringOperatorNode.java
+END
+UnaryDateTimestampOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UnaryDateTimestampOperatorNode.java
+END
+LengthOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/LengthOperatorNode.java
+END
+RowNumberColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RowNumberColumnNode.java
+END
+NonStaticMethodCallNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NonStaticMethodCallNode.java
+END
+JoinNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/JoinNode.java
+END
+DropViewNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropViewNode.java
+END
+RoutineDesignator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RoutineDesignator.java
+END
+Level2OptimizerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/Level2OptimizerFactoryImpl.java
+END
+FromBaseTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1305136/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/FromBaseTable.java
+END
+CallStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CallStatementNode.java
+END
+BaseTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BaseTypeCompiler.java
+END
+DMLStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DMLStatementNode.java
+END
+BitTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BitTypeCompiler.java
+END
+UnaryComparisonOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UnaryComparisonOperatorNode.java
+END
+SubstituteExpressionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SubstituteExpressionVisitor.java
+END
+ColumnReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ColumnReference.java
+END
+MaterializeSubqueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/MaterializeSubqueryNode.java
+END
+ReferencedTablesVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ReferencedTablesVisitor.java
+END
+WindowNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/WindowNode.java
+END
+CurrentOfNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CurrentOfNode.java
+END
+ValueNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ValueNodeList.java
+END
+Level2OptimizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/Level2OptimizerImpl.java
+END
+SQLBooleanConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SQLBooleanConstantNode.java
+END
+CurrentDatetimeOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CurrentDatetimeOperatorNode.java
+END
+JavaValueNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/JavaValueNode.java
+END
+HashJoinStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/HashJoinStrategy.java
+END
+ColumnOrdering.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ColumnOrdering.java
+END
+MaterializeResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/MaterializeResultSetNode.java
+END
+RowResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RowResultSetNode.java
+END
+DB2LengthOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DB2LengthOperatorNode.java
+END
+RemapCRsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RemapCRsVisitor.java
+END
+XMLTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/XMLTypeCompiler.java
+END
+CreateTriggerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1057338/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateTriggerNode.java
+END
+BooleanConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BooleanConstantNode.java
+END
+NodeFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NodeFactoryImpl.java
+END
+AccessPathImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/AccessPathImpl.java
+END
+Level2CostEstimateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/Level2CostEstimateImpl.java
+END
+HashTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/HashTableNode.java
+END
+OrderByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OrderByList.java
+END
+IndexToBaseRowNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/708426/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/IndexToBaseRowNode.java
+END
+ConstraintDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ConstraintDefinitionNode.java
+END
+FromSubquery.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/FromSubquery.java
+END
+OptimizerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OptimizerImpl.java
+END
+NotNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NotNode.java
+END
+UCode_CharStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UCode_CharStream.java
+END
+StatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/StatementNode.java
+END
+VirtualColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/VirtualColumnNode.java
+END
+IntersectOrExceptNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/IntersectOrExceptNode.java
+END
+TriggerReferencingStruct.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TriggerReferencingStruct.java
+END
+BinaryArithmeticOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BinaryArithmeticOperatorNode.java
+END
+DropTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropTableNode.java
+END
+SumAvgAggregateDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SumAvgAggregateDefinition.java
+END
+SubqueryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SubqueryNode.java
+END
+DistinctNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DistinctNode.java
+END
+sqlgrammar.jj
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/786022/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/sqlgrammar.jj
+END
+VTIDeferModPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/VTIDeferModPolicy.java
+END
+NewInvocationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/NewInvocationNode.java
+END
+CreateRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateRoleNode.java
+END
+PredicateList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/PredicateList.java
+END
+ResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/637526/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ResultColumn.java
+END
+TableElementList.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TableElementList.java
+END
+UnionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UnionNode.java
+END
+OrderedColumnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OrderedColumnList.java
+END
+BitConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BitConstantNode.java
+END
+BinaryComparisonOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BinaryComparisonOperatorNode.java
+END
+DropIndexNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropIndexNode.java
+END
+GrantRoleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/GrantRoleNode.java
+END
+DMLModStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DMLModStatementNode.java
+END
+CurrentRowLocationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CurrentRowLocationNode.java
+END
+RefTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RefTypeCompiler.java
+END
+DateTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DateTypeCompiler.java
+END
+CharTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CharTypeCompiler.java
+END
+ModifyColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/734585/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ModifyColumnNode.java
+END
+ColumnDefinitionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/734585/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ColumnDefinitionNode.java
+END
+XMLConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/XMLConstantNode.java
+END
+GroupByList.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/652607/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/GroupByList.java
+END
+HasVariantValueNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/HasVariantValueNodeVisitor.java
+END
+OrderByColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/639013/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OrderByColumn.java
+END
+InListOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/InListOperatorNode.java
+END
+AllResultColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/AllResultColumn.java
+END
+OptimizerFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/OptimizerFactoryImpl.java
+END
+DefaultVTIModDeferPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DefaultVTIModDeferPolicy.java
+END
+AggregateDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/789318/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/AggregateDefinition.java
+END
+UserTypeConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UserTypeConstantNode.java
+END
+ResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ResultSetNode.java
+END
+HasNodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/HasNodeVisitor.java
+END
+BinaryOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BinaryOperatorNode.java
+END
+CountAggregateDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CountAggregateDefinition.java
+END
+HasCorrelatedCRsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/HasCorrelatedCRsVisitor.java
+END
+BetweenOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BetweenOperatorNode.java
+END
+QueryTreeNodeVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/QueryTreeNodeVector.java
+END
+IsNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/IsNode.java
+END
+SetSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SetSchemaNode.java
+END
+DropAliasNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropAliasNode.java
+END
+SelectNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/882965/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/SelectNode.java
+END
+CostEstimateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CostEstimateImpl.java
+END
+ParameterNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ParameterNode.java
+END
+ResultColumnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/780167/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ResultColumnList.java
+END
+UserDefinedTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UserDefinedTypeCompiler.java
+END
+ExpressionClassBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ExpressionClassBuilder.java
+END
+CharConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CharConstantNode.java
+END
+BaseColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BaseColumnNode.java
+END
+ConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ConstantNode.java
+END
+ScrollInsensitiveResultSetNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ScrollInsensitiveResultSetNode.java
+END
+CastNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CastNode.java
+END
+TimestampTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TimestampTypeCompiler.java
+END
+CreateViewNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/780167/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateViewNode.java
+END
+StaticClassFieldReferenceNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/StaticClassFieldReferenceNode.java
+END
+DeleteNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1044367/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DeleteNode.java
+END
+ConditionalNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ConditionalNode.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/Token.java
+END
+CreateTableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/706047/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateTableNode.java
+END
+BinaryRelationalOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BinaryRelationalOperatorNode.java
+END
+CursorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/958461/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CursorNode.java
+END
+RowOrderingImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/785073/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RowOrderingImpl.java
+END
+DefaultNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DefaultNode.java
+END
+DropSchemaNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DropSchemaNode.java
+END
+TimeTypeCompiler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/TimeTypeCompiler.java
+END
+QueryTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/QueryTreeNode.java
+END
+ExtractOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/ExtractOperatorNode.java
+END
+AggregateNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/711615/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/AggregateNode.java
+END
+PrivilegeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/PrivilegeNode.java
+END
+DDLStatementNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/DDLStatementNode.java
+END
+BinaryLogicalOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BinaryLogicalOperatorNode.java
+END
+RevokeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/RevokeNode.java
+END
+CreateIndexNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/CreateIndexNode.java
+END
+WindowFunctionColumnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/WindowFunctionColumnNode.java
+END
+BinaryListOperatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/BinaryListOperatorNode.java
+END
+UntypedNullConstantNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/sql/compile/UntypedNullConstantNode.java
+END

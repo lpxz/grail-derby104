@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/742670/db/derby/code/branches/10.4/tools/ant/properties
+END
+defaultcompiler.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/defaultcompiler.properties
+END
+extrapath.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/extrapath.properties
+END
+release.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/742670/db/derby/code/branches/10.4/tools/ant/properties/release.properties
+END
+dirs.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/dirs.properties
+END
+sanefalse.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/sanefalse.properties
+END
+modern.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/modern.properties
+END
+packaging.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/684821/db/derby/code/branches/10.4/tools/ant/properties/packaging.tmpl
+END
+compilepath.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/compilepath.properties
+END
+sanetrue.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/tools/ant/properties/sanetrue.properties
+END

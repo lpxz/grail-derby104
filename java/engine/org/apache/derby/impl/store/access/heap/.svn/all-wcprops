@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1139085/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap
+END
+HeapCostController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapCostController.java
+END
+HeapPostCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1139085/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapPostCommit.java
+END
+Heap.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/Heap.java
+END
+HeapCompressScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1139085/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapCompressScan.java
+END
+HeapRowLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapRowLocation.java
+END
+HeapScanInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapScanInfo.java
+END
+HeapClassInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapClassInfo.java
+END
+OpenHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/OpenHeap.java
+END
+HeapController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapController.java
+END
+HeapScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapScan.java
+END
+D_HeapController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/D_HeapController.java
+END
+Heap_v10_2.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/Heap_v10_2.java
+END
+HeapConglomerateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/impl/store/access/heap/HeapConglomerateFactory.java
+END

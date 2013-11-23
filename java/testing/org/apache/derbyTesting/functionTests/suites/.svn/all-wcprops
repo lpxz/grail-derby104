@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/930052/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites
+END
+multi.runall
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/multi.runall
+END
+encryption.runall
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryption.runall
+END
+simpledemo.runall
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/simpledemo.runall
+END
+propertyinfo.runall
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/propertyinfo.runall
+END
+embeddedUseprocess.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/embeddedUseprocess.exclude
+END
+derbynetmats.runall
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/930052/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbynetmats.runall
+END
+j9derbynetclientmats.properties
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/j9derbynetclientmats.properties
+END
+jdbc20.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/jdbc20.properties
+END
+encryptionECB.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionECB.runall
+END
+j9derbynetmats.runall
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/783532/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/j9derbynetmats.runall
+END
+storerecovery.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storerecovery.runall
+END
+jdk14.runall
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/jdk14.runall
+END
+storemore.runall
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storemore.runall
+END
+storemats.runall
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storemats.runall
+END
+derbynetautostart.properties
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbynetautostart.properties
+END
+encryptionAES.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionAES.properties
+END
+encryptionAll.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionAll.runall
+END
+storeCollationDBrecovery.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storeCollationDBrecovery.properties
+END
+encryptionBlowfish.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionBlowfish.properties
+END
+encryption.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryption.properties
+END
+multi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/multi.properties
+END
+storeunit.runall
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storeunit.runall
+END
+simpledemo.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/simpledemo.properties
+END
+derbynetmats.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbynetmats.properties
+END
+derbynetclientmats.runall
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbynetclientmats.runall
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/build.xml
+END
+encryptionECB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionECB.properties
+END
+j9derbynetmats.properties
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/j9derbynetmats.properties
+END
+derbylang.runall
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbylang.runall
+END
+DerbyNetClient.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/DerbyNetClient.exclude
+END
+encodingTests.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encodingTests.runall
+END
+storerecovery.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storerecovery.properties
+END
+jdk14.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/jdk14.properties
+END
+storetests.runall
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storetests.runall
+END
+i18nTest.runall
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/i18nTest.runall
+END
+storemats.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storemats.properties
+END
+encryptionAll.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionAll.properties
+END
+DerbyNetUseprocess.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/930052/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/DerbyNetUseprocess.exclude
+END
+derbytools.runall
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/691757/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbytools.runall
+END
+EncryptionSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/EncryptionSuite.java
+END
+AllPackages.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/673454/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/AllPackages.java
+END
+storeunit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storeunit.properties
+END
+derbyall.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbyall.properties
+END
+derbynetclientmats.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/derbynetclientmats.properties
+END
+encryptionCFB.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionCFB.runall
+END
+encodingTests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encodingTests.properties
+END
+DerbyNet.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/DerbyNet.exclude
+END
+xa.runall
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/xa.runall
+END
+storetests.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storetests.properties
+END
+unit.runall
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/unit.runall
+END
+encryptionOFB.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionOFB.runall
+END
+largeDataClient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/largeDataClient.properties
+END
+DerbyNetClientUseprocess.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/930052/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/DerbyNetClientUseprocess.exclude
+END
+largeData.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/largeData.properties
+END
+DerbyNetRemote.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/930052/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/DerbyNetRemote.exclude
+END
+embedded.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/embedded.exclude
+END
+encryptionDES.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionDES.runall
+END
+largeDataNet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/largeDataNet.properties
+END
+jdbcapi.runall
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/jdbcapi.runall
+END
+All.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/643902/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/All.java
+END
+XMLSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/XMLSuite.java
+END
+encryptionCFB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionCFB.properties
+END
+jdbc20.runall
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/jdbc20.runall
+END
+largeDataTests.runall
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/largeDataTests.runall
+END
+xa.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/xa.properties
+END
+unit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/unit.properties
+END
+encryptionOFB.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionOFB.properties
+END
+encryptionAES.runall
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionAES.runall
+END
+DerbyNetClientRemote.exclude
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/930052/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/DerbyNetClientRemote.exclude
+END
+storeall.properties
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storeall.properties
+END
+encryptionDES.properties
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionDES.properties
+END
+storeCollationDBrecovery.runall
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/storeCollationDBrecovery.runall
+END
+encryptionBlowfish.runall
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/suites/encryptionBlowfish.runall
+END

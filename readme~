@@ -1,0 +1,10 @@
+compile:
+copy xalan.jar to jre/lib and /home/lpxz/
+remember xalan.jar must be xalan.2.6 version
+
+
+run: 
+if you want to use the clientDriver, you need to start the db server first by running ./startNetworkServer
+if you use EmbeddedDriver, you do not need to start anything.
+
+

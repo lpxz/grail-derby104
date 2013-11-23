@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1488857/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams
+END
+CharAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1488857/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams/CharAlphabet.java
+END
+ReadOnceByteArrayInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams/ReadOnceByteArrayInputStream.java
+END
+ByteAlphabet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams/ByteAlphabet.java
+END
+LoopingAlphabetStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/673030/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams/LoopingAlphabetStream.java
+END
+StringReaderWithLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams/StringReaderWithLength.java
+END
+LoopingAlphabetReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/750409/db/derby/code/branches/10.4/java/testing/org/apache/derbyTesting/functionTests/util/streams/LoopingAlphabetReader.java
+END

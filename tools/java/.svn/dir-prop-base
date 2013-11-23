@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 83
+jce1_2_2.jar
+db2jcc.jar
+db2jcc_license_c.jar
+jdbc2_0-stdext.jar
+osgi.jar
+junit.jar
+
+END

@@ -1,0 +1,95 @@
+10
+
+dir
+1534620
+https://svn.apache.org/repos/asf/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi
+https://svn.apache.org/repos/asf
+
+
+
+2012-05-15T21:38:58.102797Z
+1338905
+mamta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+store
+dir
+
+util
+dir
+
+reference
+dir
+
+build.xml
+file
+
+
+
+
+2013-10-22T12:57:08.660077Z
+b5a4550c36084b861515b5ef3a31f805
+2007-11-09T21:20:12.854250Z
+593654
+kmarsden
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2980
+
+sql
+dir
+
+jdbc
+dir
+
+services
+dir
+
+types
+dir
+
+db
+dir
+
+transaction
+dir
+
+security
+dir
+
+error
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/javadoc
+END
+EndFormatTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/javadoc/EndFormatTaglet.java
+END
+FormatIdTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/javadoc/FormatIdTaglet.java
+END
+UpgradeTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/javadoc/UpgradeTaglet.java
+END
+DiskLayoutTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/javadoc/DiskLayoutTaglet.java
+END
+PurposeTaglet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/build/org/apache/derbyBuild/javadoc/PurposeTaglet.java
+END

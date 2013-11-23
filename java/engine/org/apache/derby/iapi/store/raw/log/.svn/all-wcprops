@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/781500/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/raw/log
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/781500/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/raw/log/LogFactory.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/raw/log/Logger.java
+END
+LogInstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/raw/log/LogInstant.java
+END
+LogScan.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/635491/db/derby/code/branches/10.4/java/engine/org/apache/derby/iapi/store/raw/log/LogScan.java
+END
