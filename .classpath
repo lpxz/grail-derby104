@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java/build"/>
+	<classpathentry kind="src" path="java/client"/>
+	<classpathentry excluding="simple/|scores/java/server/|workingwithderby/|vtis/java/|nserverdemo/|scores/java/common/|localcal/src/|simplemobile/|scores/java/client/" kind="src" path="java/demo"/>
+	<classpathentry kind="src" path="java/demo/localcal/src"/>
+	<classpathentry kind="src" path="java/demo/nserverdemo"/>
+	<classpathentry kind="src" path="java/demo/scores/java/client"/>
+	<classpathentry kind="src" path="java/demo/scores/java/common"/>
+	<classpathentry kind="src" path="java/demo/scores/java/server"/>
+	<classpathentry kind="src" path="java/demo/simple"/>
+	<classpathentry kind="src" path="java/demo/simplemobile"/>
+	<classpathentry kind="src" path="java/demo/vtis/java"/>
+	<classpathentry kind="src" path="java/demo/workingwithderby"/>
+	<classpathentry kind="src" path="java/drda"/>
+	<classpathentry kind="src" path="java/engine"/>
+	<classpathentry kind="src" path="java/shared"/>
+	<classpathentry kind="src" path="java/storeless"/>
+	<classpathentry kind="src" path="java/testing"/>
+	<classpathentry kind="src" path="java/tools"/>
+	<classpathentry kind="src" path="plugins/eclipse/org.apache.derby.ui/src"/>
+	<classpathentry kind="src" path="tools/l10n"/>
+	<classpathentry kind="lib" path="maven/derbyLocale_cs/target/derbyLocale_cs-10.3.1.4.jar"/>
+	<classpathentry kind="lib" path="maven/derbyLocale_hu/target/derbyLocale_hu-10.3.1.4.jar"/>
+	<classpathentry kind="lib" path="maven/derbyLocale_pl/target/derbyLocale_pl-10.3.1.4.jar"/>
+	<classpathentry kind="lib" path="maven/derbyLocale_ru/target/derbyLocale_ru-10.3.1.4.jar"/>
+	<classpathentry kind="lib" path="tools/java/empty.jar"/>
+	<classpathentry kind="lib" path="tools/java/felix.jar"/>
+	<classpathentry kind="lib" path="tools/java/geronimo-spec-servlet-2.4-rc4.jar"/>
+	<classpathentry kind="lib" path="tools/java/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="tools/java/javacc.jar"/>
+	<classpathentry kind="lib" path="tools/java/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="tools/java/xml-apis.jar"/>
+	<classpathentry kind="lib" path="tools/java/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="tools/java/junit.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_13"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
